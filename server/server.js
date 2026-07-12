@@ -9,7 +9,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://blogging-website-l661d3oaf-sachin-singh3.vercel.app"
+      "https://blogging-website-sooty-kappa.vercel.app/"
     ],
     credentials: true,
   })
